@@ -1,4 +1,4 @@
-# 21Recursivo
+# 21 Sin Asignaciones
 # Maestría en ciencias de la Información y las Comunicaciones
 
 Informática Gr:195-2 <br>
