@@ -11,4 +11,6 @@ Integrante:
 # Instalación y Despliegue
 El presente código fue creado usando Pyethon, por lo tanto, para su despliegue y visualización de manera local, es necesario tener instalado un IDLE de Python.
 
-Una vez realizada la instalación de Python, puede clonar el repositorio o descargar directamente el archivo "21.py" y evidenciar el código por cuenta propia.
+Una vez realizada la instalación de Python, puede clonar el repositorio o descargar directamente el archivo "21.py" y evidenciar el código por cuenta propia. <br>
+
+Este codigo fue recuperado del elaborado con el grupo en la materia Modelos II 
